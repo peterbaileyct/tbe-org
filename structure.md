@@ -16,4 +16,4 @@ This repo is structured as follows:
   * places: A list of .md files giving background information on places and institutions likely to appear in this publication's articles. Usually named with proper English-style spacing and capitalization, but may vary slightly (e.g. "Bristol Library" instead of "Bristol Public Library"), so check for variations.
 
 * posts
-  Contains a set of HTML, XML, and/or Markdown files containing articles from this paper. This is used to (re)generate dossiers/writing and editing style guides.
+  Contains a set of HTML, XML, and/or Markdown files containing articles from this paper. This is used to (re)generate dossiers/writing and editing style guides. If there is no metadata indicating authorship of a given post, e.g. <meta> in an HTML file, look for words like "written by" early in the content of the articles.
